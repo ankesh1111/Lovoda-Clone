@@ -1,6 +1,6 @@
 
  import footer from "../assets/footer.png"
-
+ import {  FaFacebook,FaInstagramSquare,FaTiktok,FaPinterestP } from "react-icons/fa";
 function Footer(){
 
     return (
@@ -15,14 +15,16 @@ function Footer(){
             <p class="s5">Wholesale Signup Form</p>
             <p >Shipping</p>
             <h5 class="h5">Subscribe to our emails</h5>
-            <input type="text" placeholder="Email"/>
-
-            {/* <div class="i">
-           < FaFacebook/>
-           <FaInstagramSquare/>
-           <FaTiktok/>
-            <FaPinterestP/>
-            </div> */}
+            <input type="text" id="pla" placeholder="Email"/>
+           <div class="i">
+           <FaFacebook/>
+            <div class="i2"><FaInstagramSquare/></div>
+            <div class="i3"><FaTiktok/></div>
+            <div class="i4"><FaPinterestP/></div>
+           
+           
+          
+            </div> 
       </div>
 
         <div class="c2">
@@ -42,7 +44,7 @@ function Footer(){
       
        <div id="container5">
         <div>
-          <img class="l1" src={footer}  />
+          <img class="c1" src={footer}  />
         </div>
 
        </div>

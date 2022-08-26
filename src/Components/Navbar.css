@@ -37,11 +37,12 @@ p{
  }
  .fa{
     font-size: 20px;
-    color: white;
+    color:#121212;
  }
 
  .e1{
   border: none;
+  text-decoration: none;
   color: #121212;
  }
 
@@ -75,4 +76,230 @@ p{
  .f2{
   margin-left: 10px;
  }
+
+ /* cart section */
+ #cart{
+  /* border: 1px solid red; */
+  width: 80%;
+  height: 850px;
+  margin: auto;
+  display: flex;
+ }
+ #cart>div{
+  /* border: 1px solid red; */
+  width: 50%;
+  height: 850px;
+  margin: auto;
+ }
  
+ .h1>img{
+  width:100%;
+  height: 700px;
+ }
+ .h2>img{
+  width: 400px;
+  height: 40px;
+  margin-left: -30px;
+  
+ }
+ .h3{
+  margin-left: -330px;
+ }
+ .h4{
+  margin-left: -290px;
+ }
+ .h6{
+  margin-left: -344px;
+ }
+ .h7{
+  margin-left: -110px;
+ }
+ .h8{
+  margin-left: -170px;
+ }
+ .b1{
+  background-color: aliceblue;
+  color: black;
+  border: 1px solid black;
+  width: 50px;
+  font-size: 18px;
+  
+ }
+ .b2{
+  width: 386px;
+  background-color: aliceblue;
+  color: black;
+ }
+ .b3{
+  width: 386px;
+  background-color: black;
+  color: white;
+ }
+ .h9{
+  margin-left: -250px;
+ }
+ #u1{
+  margin-left: -235px;
+ }
+
+ /* payment css */
+
+ #pay{
+  /* border: 1px solid red;   */
+  width: 80%;
+  height: 1050px;
+  margin: auto;
+  display: flex;
+ }
+ #pay>div{
+  /* border: 1px solid red;   */
+  width: 50%;
+  height: 1050px;
+  margin: auto;
+ }
+
+ #pay1{
+  display:flex ;
+ }
+/* .l1{
+  margin-left: -156px;
+} */
+ .a1{
+  margin-left: 6px;
+ }
+ .a2{
+  margin-left: -335px;
+ }
+ .a3{
+  margin-left: -430px;
+  font-size: 30px;
+ }
+ .a4{
+  margin-top: -73px;
+  margin-left: -200px;
+ }
+ .a5{
+  margin-left: -280px;
+  margin-top: -13px;
+ }
+ .a6{
+  margin-left: -650px;
+  
+ }
+ .a7{
+  margin-top: -36px;
+  margin-left: -180px;
+ }
+  
+ #input{
+  margin-left: -65px;
+ }
+ .r1>img{
+    width: 100px;
+    height: 100px;
+    margin-top: 34px;
+    margin-left: -350px;
+ }
+ .r2{
+  margin-top: -60px;
+  margin-left: -30px;
+ }
+ .r3{
+  margin-left: 400px;
+  margin-top: -34px;
+ }
+ #input1{
+  margin-left: 16px;
+
+ }
+  .r4{
+    margin-left: -386px;
+  }
+  .r5{
+    margin-left: 400px;
+    margin-top: -30px;
+  }
+  .cart{
+    margin-left: -900px;
+  }
+  .p1{
+    margin-left: -960px;
+  }
+  .p2{
+    margin-top: -35px;
+    margin-left: 300px;
+  }
+  .p3{
+    margin-left: 900px;
+    margin-top: -35px;
+  }
+  #img1>img{
+     width: 100px;
+     height: 150px;
+     margin-left: -960px;
+  }
+  .p4{
+    margin-top: -155px;
+    margin-left: -600px;
+  }
+  .p5{
+    margin-left: -730px;
+  }
+  .e3{
+    background-color: aliceblue;
+    color: black;
+    border: 1px solid black;
+    width: 50px;
+    font-size: 18px;
+    
+    
+  }
+  #q1{
+    margin-left: 300px;
+    margin-top:-65px
+  }
+  .q2{
+    margin-left: 900px;
+    margin-top: -40px;
+  }
+  .n1{
+    margin-left:820px;
+    margin-top: -55px;
+  }
+  .cla{
+    margin-left: -790px;
+  }
+ .cl2{
+  margin-left: 840px;
+ }
+ .cl3{
+  margin-left: 660px;
+ }
+ .cl4{
+  margin-left: 670px;
+ }
+ .cl5{
+  margin-left: 590px;
+  width: 360px;
+ }
+ .ca1{
+  width:385px;
+  margin-left: 777px;
+ }
+
+ #su{
+   margin-left:-65px;
+   width:335px;
+ }
+ .LO{
+  margin-left: -350px;
+ }
+ .cul{
+  margin-left: 300px;
+ }
+ #total{
+  margin-left: 300px;
+ }
+ h4{
+  margin-top: 14px;
+ }

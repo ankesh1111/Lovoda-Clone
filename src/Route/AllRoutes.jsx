@@ -13,6 +13,9 @@ import Necklaces from "../Pages/Necklaces";
 import Bracelets from "../Pages/Bracelets";
 import Rings from "../Pages/Rings";
 import ShopSocial from "../Pages/ShopSocial";
+import Payment from "../Pages/Payment";
+import ProductPage from "../Pages/Productpage";
+ 
 
 function AllRoutes(){
 
@@ -34,6 +37,8 @@ function AllRoutes(){
             <Route path="/bracelets" element={<Bracelets/>}/>
             <Route path="/rings" element={<Rings/>}/>
             <Route path="/shopsocial" element={<ShopSocial/>}/>
+            <Route path="/payment" element={<Payment/>}/>
+            <Route path="/productpage" element={<ProductPage/>}/>
 
 
 

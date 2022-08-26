@@ -29,25 +29,28 @@ function Home(){
 
              <div id="container1">
                 <div>
-                    <img src=" https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101104-2_1.jpg?v=1659450395" />
+                <Link to="/productpage">  <img 
+                     src=" https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101104-2_1.jpg?v=1659450395" /></Link>
                     <p class="w2">Evermore Ear Cuff Earrings</p>
                     <p class="w1">$10.00</p>
 
                 </div>
                 <div>
-                    <img src="https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101103-2_1.jpg?v=1659450313" />
+                <Link to="/productpage"> <img src="https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101103-2_1.jpg?v=1659450313" /></Link>
+                   
                     <p class="w3">Wired Ear Cuff Earrings</p>
                     <p class="w1">$10.00</p>
 
                 </div>
                 <div>
-                    <img src="https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101102-1_1.jpg?v=1659450226" />
+                  
+                <Link to="/productpage">   <img src="https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101102-1_1.jpg?v=1659450226" /></Link>
                     <p class="w3">Fern Ear Cuff Earrings</p>
                     <p class="w1">$10.00</p>
 
                 </div>
                 <div>
-                    <img src="https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101101-1_1_823x.jpg?v=1659450051" />
+                <Link to="/productpage"><img src="https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101101-1_1_823x.jpg?v=1659450051" /></Link>
                     <p class="w2">Blossom Ear Cuff Earrings</p>
                     <p class="w1">$10.00</p>
 

@@ -13,7 +13,7 @@ import { Link } from "react-router-dom";
                 
                 
                 <div class="l2">
-                <h2>LOVODA</h2>
+        <h2>LOVODA</h2>
         <p class="e1"><Link to="/">Home</Link> </p>
         <p class="e1"><Link to="/new">New</Link> </p>
         <p class="e1"><Link to="/shopall">Shop All</Link> </p>
@@ -28,7 +28,8 @@ import { Link } from "react-router-dom";
                    
                       <p class="fa"><Link to="/search"><FaSearch/></Link></p>
                       <p class="fa"><Link  to="/Login">< FaUserAlt/></Link></p>
-                      <p class="fa"><Link to="/cart"><FaCartArrowDown/></Link></p>
+                      <p class="fa"><Link to="/cart"><FaCartArrowDown/></Link>1</p>
+                       
                      
                   
                    

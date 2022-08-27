@@ -96,8 +96,9 @@ function Cart(){
         />
       ))}
 
-      <Total id="total" total={calculateTotal(data)} />
-
+      <Total id="total"  total={calculateTotal(data)} />
+         <br />
+         <br />
         <br />
        <hr />
        <br />
@@ -127,8 +128,8 @@ function Cart(){
               
              
               {/* <hr /> */}
-
-              <p class="cl2">Subtotal   <Total id="total" total={calculateTotal(data)} /></p>
+              <p class="sub">Subtotal</p>  
+              <Total  total={calculateTotal(data)} />
               <p class="cl3"> available for orders between $35 - $1,000 ⓘ</p>
               <p class="cl4">Taxes and shipping calculated at checkout</p>
               <button class="cl5"><Link to="/payment">Check out</Link></button>
@@ -138,7 +139,7 @@ function Cart(){
                 <img src={cartpage} />
               </div>
  
-<br />
+           <br />
           <h1 class="cla">Featured collection</h1>
 
           <div id="container1">

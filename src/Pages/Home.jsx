@@ -65,7 +65,7 @@ function Home(){
              <div id="container2">
                 <div>
                     <img src="https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101108-3_1_823x.jpg?v=1659449973" />
-                    <p class="w2">Barrel Stone Earrings</p>
+                    <p class="w3">Barrel Stone Earrings</p>
                     <p class="w1">$18.00</p>
 
                 </div>
@@ -77,13 +77,13 @@ function Home(){
                 </div>
                 <div>
                     <img src="https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101106-G-1_1_823x.jpg?v=1659449836" />
-                    <p class="w3">Classic Stone Stud Earrings</p>
+                    <p  style={{marginLeft:"-80px"}}>Classic Stone Stud Earrings</p>
                     <p class="w1">$12.00</p>
 
                 </div>
                 <div>
                     <img src="https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101105-1_1_823x.jpg?v=1659449763" />
-                    <p class="w2">Acclaim Hoop Earrings</p>
+                    <p class="w3">Acclaim Hoop Earrings</p>
                     <p class="w1">$20.00</p>
 
                 </div>
@@ -171,6 +171,7 @@ function Home(){
        <p><Link to="/image">  Load more</Link>
       </p>   
        
+       <br />
        <br />
        <br />
        <br />

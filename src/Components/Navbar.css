@@ -20,7 +20,7 @@ p{
     display: flex;
     /* border: 1px solid red; */
     width:"200px";
-    padding-left: 80px;
+    padding-left: 120px;
     margin-top: 12px;
     color: #121212;
     
@@ -168,22 +168,22 @@ p{
   margin-left: 6px;
  }
  .a2{
-  margin-left: -335px;
+  margin-left: -340px;
  }
  .a3{
-  margin-left: -430px;
+  margin-left: -440px;
   font-size: 30px;
  }
  .a4{
   margin-top: -73px;
-  margin-left: -200px;
+  margin-left: -250px;
  }
  .a5{
-  margin-left: -280px;
+  margin-left: -336px;
   margin-top: -13px;
  }
  .a6{
-  margin-left: -650px;
+  margin-left: -660px;
   
  }
  .a7{
@@ -284,7 +284,7 @@ p{
  }
  .ca1{
   width:385px;
-  margin-left: 777px;
+  margin-left: 776px;
  }
 
  #su{
@@ -298,8 +298,14 @@ p{
   margin-left: 300px;
  }
  #total{
-  margin-left: 300px;
+  margin-left: 880px;
+  margin-top: -50px;
  }
  h4{
   margin-top: 14px;
  }
+ .sub{
+  margin-left: 720px;
+  margin-bottom: 30px;
+ }
+ 

@@ -1,5 +1,6 @@
 import Navbar from "../Components/Navbar"
   import { Link } from "react-router-dom";
+import Footer from "../Components/Footer";
 
 function New(){
 
@@ -8,14 +9,14 @@ function New(){
         <div>
          <Navbar/>
          <hr />
-         <h1 style={{marginLeft:"-1010px"}}>New</h1>
+         <h1 style={{marginLeft:"-1000px"}}>New</h1>
          
          <br />
          <br />
          <br />
          <div id="container1">
                 <div>
-                     <Link to="/cart">  <img 
+                     <Link to="/productpage">  <img 
                      src=" https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101104-2_1.jpg?v=1659450395" /></Link>
                   
                     <p class="w2">Evermore Ear Cuff Earrings</p>
@@ -141,7 +142,7 @@ function New(){
 
 
 
-
+           <Footer/>
         </div>
     )
 }

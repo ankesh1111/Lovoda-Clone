@@ -17,8 +17,8 @@ improve our understanding of the React.
 1. Home Page
 2. Signup
 3. Sign-In
-4. Main Home Page
-5. Product Category Page:
+ 
+4. Product Category Page:
 New,
 Shop All,
 Earning,
@@ -27,9 +27,9 @@ Bracelets,
 Rings,
 Shop Social
 
-6. Product page
-7. cart page
-8. Checkout Page or Payment Page
+5. Product page
+6. cart page
+7. Checkout Page or Payment Page
 
 # Tech Stack
 * React js
@@ -56,14 +56,17 @@ Shop Social
 ![search page](https://user-images.githubusercontent.com/92791586/187015914-a94fd449-4fbf-4497-84a9-d790cdd53d16.PNG)
 
 
-## Main Home Page
+ 
    
 ## product category diffrent page
- 
+ ![navbar 1](https://user-images.githubusercontent.com/92791586/187016227-2642f5d5-fa83-4101-bc67-8c909fb3a50f.PNG)
 ![new page](https://user-images.githubusercontent.com/92791586/187015876-143019b0-481f-4b1e-a87e-16f38b4ec361.PNG)
  
  
 ## product page
+![product page](https://user-images.githubusercontent.com/92791586/187016219-920b8a28-e253-482e-b4ad-42175c972d0c.PNG)
+
+
  
 ## Cart Page
 ![cart1](https://user-images.githubusercontent.com/92791586/187015882-4c5d7b2d-3225-4a94-8f85-b0f5dc397fb9.PNG)
